@@ -159,7 +159,11 @@ Preview output example:
 4️⃣ Run:
 
 ```powershell
-powershell -ExecutionPolicy Bypass -File .\smart-image-rename.ps1
+powershell -ExecutionPolicy Bypass -File .\smart-image-filename-cleaner.ps1
+```
+1️⃣ Or Click on the Folder path and past the script and hit Enter
+```powershell
+powershell -ExecutionPolicy Bypass -File .\smart-image-filename-cleaner.ps1
 ```
 
 ---
